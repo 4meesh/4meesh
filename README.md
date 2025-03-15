@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently Learning: Full-stack development, advanced front-end design, backend architecture, and scalable web applications.<br>🚀 Interests: Web development, open-source contributions, cloud computing, and solving real-world problems with code.<br>💡 Skills: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, SQL, Python, Figma, and Photoshop.<br>🎯 Goals: To master full-stack development, build scalable applications, and contribute to impactful open-source projects.<br>💻 Hobbies: Building web apps, exploring new frameworks, gaming, and staying updated with the latest tech trends.
+🌱 Currently Learning: Full-stack development, advanced front-end design, backend architecture, and scalable web applications.<br>🚀 Interests: Web development, open-source contributions, cloud computing, and solving real-world problems with code.<br>🎯 Goals: To master full-stack development, build scalable applications, and contribute to impactful open-source projects.<br>💻 Hobbies: Building web apps, exploring new frameworks, gaming, and staying updated with the latest tech trends.
 
 
 # 💻 Tech Stack:
